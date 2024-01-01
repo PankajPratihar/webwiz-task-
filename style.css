@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(4, 4, 4);
+    color: #fbfafa;
+}
+a:link{
+    background-color: rgb(255, 0, 179);
+    border-radius: 10px;
+}
+.navbar{background-color: rgb(4, 4, 4);
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    border-radius: 10px;
+}
+.navbar a{
+    padding: 100px;
+}
+.navbar li {
+    overflow: auto;
+    text-decoration: none;
+    text-align: center;
+}
